@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Armee Name="Hauts Elfes">
+  <Seigneurs>
+    <Seigneur>
+      <Name>Prince</Name>
+      <Points>140</Points>
+      <Options>
+        <OptionGroup Name="Une des armes suivantes">
+            <Option>
+                <Name>Arme de base additionnelle</Name>
+                <Points>3</Points>
+            </Option>
+            <Option>
+                <Name>Hallebarde</Name>
+                <Points>3</Points>
+            </Option>
+        </OptionGroup>
+        <OptionGroup Name="Arc long">
+            <Option>
+                <Name>Arc long</Name>
+                <Points>5</Points>
+            </Option>
+        </OptionGroup>
+      </Options>
+    </Seigneur>
+    <Seigneur>
+      <Name>Archimage</Name>
+      <Points>185</Points>
+    </Seigneur>
+    <Seigneur>
+      <Name>Elu d'Asuryan</Name>
+      <Points>210</Points>
+    </Seigneur>
+    <Seigneur>
+      <Name>Maitre du savoir de Hoeth</Name>
+      <Points>230</Points>
+    </Seigneur>
+  </Seigneurs>
+  <Heros>
+    <Hero>
+      <Name>Noble</Name>
+      <Points>70</Points>
+    </Hero>
+    <Hero>
+      <Name>Mage</Name>
+      <Points>85</Points>
+    </Hero>
+    <Hero>
+      <Name>Mage Dragon de Caledor</Name>
+      <Points>350</Points>
+    </Hero>
+    <Hero>
+      <Name>Heaume des mers de la lothern</Name>
+      <Points>100</Points>
+    </Hero>
+    <Hero>
+      <Name>Demoiselle d'honneur de la reine éternelle</Name>
+      <Points>95</Points>
+    </Hero>
+  </Heros>
+  <UnitesDeBase>
+    <UniteDeBase>
+      <Name>Lanciers</Name>
+      <NbMin>10</NbMin>
+      <NbMax>-1</NbMax>
+      <Points>9</Points>
+    </UniteDeBase>
+    <UniteDeBase>
+      <Name>Archers</Name>
+      <NbMin>10</NbMin>
+      <NbMax>-1</NbMax>
+      <Points>10</Points>
+    </UniteDeBase>
+    <UniteDeBase>
+      <Name>Gardes Maritimes de Lothern</Name>
+      <NbMin>10</NbMin>
+      <NbMax>-1</NbMax>
+      <Points>11</Points>
+    </UniteDeBase>
+    <UniteDeBase>
+      <Name>Heaumes d'argent</Name>
+      <NbMin>5</NbMin>
+      <NbMax>-1</NbMax>
+      <Points>21</Points>
+    </UniteDeBase>
+    <UniteDeBase>
+      <Name>Patrouilleurs Ellyriens</Name>
+      <NbMin>5</NbMin>
+      <NbMax>-1</NbMax>
+      <Points>16</Points>
+    </UniteDeBase>
+  </UnitesDeBase>
+  <UnitesSpeciales>
+    <UniteSpeciale>
+      <Name>Char à lions de Chrace</Name>
+      <NbMin>1</NbMin>
+      <NbMax>1</NbMax>
+      <Points>120</Points>
+    </UniteSpeciale>
+    <UniteSpeciale>
+      <Name>Lions blancs de Chrace</Name>
+      <NbMin>10</NbMin>
+      <NbMax>-1</NbMax>
+      <Points>13</Points>
+    </UniteSpeciale>
+    <UniteSpeciale>
+      <Name>Maitres des épées de Hoeth</Name>
+      <NbMin>5</NbMin>
+      <NbMax>-1</NbMax>
+      <Points>13</Points>
+    </UniteSpeciale>
+    <UniteSpeciale>
+      <Name>Guerriers fantomes</Name>
+      <NbMin>5</NbMin>
+      <NbMax>-1</NbMax>
+      <Points>14</Points>
+    </UniteSpeciale>
+    <UniteSpeciale>
+      <Name>Gardes phénix</Name>
+      <NbMin>10</NbMin>
+      <NbMax>-1</NbMax>
+      <Points>15</Points>
+    </UniteSpeciale>
+    <UniteSpeciale>
+      <Name>Princes dragons de Caledor</Name>
+      <NbMin>5</NbMin>
+      <NbMax>-1</NbMax>
+      <Points>29</Points>
+    </UniteSpeciale>
+    <UniteSpeciale>
+      <Name>Cotre volant de Lothern</Name>
+      <NbMin>1</NbMin>
+      <NbMax>1</NbMax>
+      <Points>95</Points>
+    </UniteSpeciale>
+    <UniteSpeciale>
+      <Name>Char de Tiranoc</Name>
+      <NbMin>1</NbMin>
+      <NbMax>3</NbMax>
+      <Points>70</Points>
+    </UniteSpeciale>
+  </UnitesSpeciales>
+  <UnitesRares>
+    <UniteRare>
+      <Name>Baliste Serre d'aigle</Name>
+      <NbMin>1</NbMin>
+      <NbMax>1</NbMax>
+      <Points>70</Points>
+    </UniteRare>
+    <UniteRare>
+      <Name>Grands aigles</Name>
+      <NbMin>1</NbMin>
+      <NbMax>-1</NbMax>
+      <Points>50</Points>
+    </UniteRare>
+    <UniteRare>
+      <Name>Phénix spire-de-feu</Name>
+      <NbMin>1</NbMin>
+      <NbMax>1</NbMax>
+      <Points>225</Points>
+    </UniteRare>
+    <UniteRare>
+      <Name>Phénix coeur-de-givre</Name>
+      <NbMin>1</NbMin>
+      <NbMax>1</NbMax>
+      <Points>240</Points>
+    </UniteRare>
+    <UniteRare>
+      <Name>Soeurs d'Avelorn</Name>
+      <NbMin>5</NbMin>
+      <NbMax>-1</NbMax>
+      <Points>14</Points>
+    </UniteRare>
+  </UnitesRares>
+</Armee>
+

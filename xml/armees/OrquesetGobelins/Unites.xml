@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Armee Name="Orques et Gobelins">
+  <Seigneurs>
+    <Seigneur>
+      <Name>Chef de guerre Orque</Name>
+      <Points>115</Points>
+    </Seigneur>
+    <Seigneur>
+      <Name>Chef de guerre Orque sauvage</Name>
+      <Points>150</Points>
+    </Seigneur>
+    <Seigneur>
+      <Name>Chef de guerre Orque noir</Name>
+      <Points>160</Points>
+    </Seigneur>
+    <Seigneur>
+      <Name>Chef de guerre Gobelin</Name>
+      <Points>65</Points>
+    </Seigneur>
+    <Seigneur>
+      <Name>Chef de guerre Gobelin de la nuit</Name>
+      <Points>55</Points>
+    </Seigneur>
+    <Seigneur>
+      <Name>Grand chaman Orque</Name>
+      <Points>165</Points>
+    </Seigneur>
+    <Seigneur>
+      <Name>Grand chaman Orque sauvage</Name>
+      <Points>170</Points>
+    </Seigneur>
+    <Seigneur>
+      <Name>Grand chaman Gobelin</Name>
+      <Points>145</Points>
+    </Seigneur>
+    <Seigneur>
+      <Name>Grand chaman Gobelin de la nuit</Name>
+      <Points>140</Points>
+    </Seigneur>
+  </Seigneurs>
+  <Heros>
+    <Hero>
+      <Name>Grand chef Orque</Name>
+      <Points>55</Points>
+    </Hero>
+    <Hero>
+      <Name>Grand chef Orque sauvage</Name>
+      <Points>75</Points>
+    </Hero>
+    <Hero>
+      <Name>Grand chef Orque noir</Name>
+      <Points>90</Points>
+    </Hero>
+    <Hero>
+      <Name>Grand chef Gobelin</Name>
+      <Points>35</Points>
+    </Hero>
+    <Hero>
+      <Name>Grand chef Gobelin de la nuit</Name>
+      <Points>30</Points>
+    </Hero>
+    <Hero>
+      <Name>Chaman Orque</Name>
+      <Points>65</Points>
+    </Hero>
+    <Hero>
+      <Name>Chaman Orque sauvage</Name>
+      <Points>70</Points>
+    </Hero>
+    <Hero>
+      <Name>Chaman Gobelin</Name>
+      <Points>55</Points>
+    </Hero>
+    <Hero>
+      <Name>Chaman Gobelin de la nuit</Name>
+      <Points>50</Points>
+    </Hero>
+  </Heros>
+  <UnitesDeBase>
+    <UniteDeBase>
+      <Name>Guerriers Orques</Name>
+      <NbMin>10</NbMin>
+      <NbMax>-1</NbMax>
+      <Points>6</Points>
+    </UniteDeBase>
+    <UniteDeBase>
+      <Name>Guerriers Orques</Name>
+      <NbMin>10</NbMin>
+      <NbMax>-1</NbMax>
+      <Points>6</Points>
+    </UniteDeBase>
+    <UniteDeBase>
+      <Name>Archers Orques</Name>
+      <NbMin>10</NbMin>
+      <NbMax>-1</NbMax>
+      <Points>7</Points>
+    </UniteDeBase>
+    <UniteDeBase>
+      <Name>Orques sauvages</Name>
+      <NbMin>10</NbMin>
+      <NbMax>-1</NbMax>
+      <Points>8</Points>
+    </UniteDeBase>
+    <UniteDeBase>
+      <Name>Gobelins</Name>
+      <NbMin>20</NbMin>
+      <NbMax>-1</NbMax>
+      <Points>3</Points>
+    </UniteDeBase>
+    <UniteDeBase>
+      <Name>Gobelins sur loup</Name>
+      <NbMin>5</NbMin>
+      <NbMax>-1</NbMax>
+      <Points>10</Points>
+    </UniteDeBase>
+    <UniteDeBase>
+      <Name>Gobelins de la nuit</Name>
+      <NbMin>20</NbMin>
+      <NbMax>-1</NbMax>
+      <Points>3</Points>
+    </UniteDeBase>
+    <UniteDeBase>
+      <Name>Gobelins des forets sur araignée</Name>
+      <NbMin>5</NbMin>
+      <NbMax>-1</NbMax>
+      <Points>13</Points>
+    </UniteDeBase>
+  </UnitesDeBase>
+  <UnitesSpeciales>
+    <UniteSpeciale>
+      <Name>Orques noirs</Name>
+      <NbMin>10</NbMin>
+      <NbMax>-1</NbMax>
+      <Points>12</Points>
+    </UniteSpeciale>
+    <UniteSpeciale>
+      <Name>Orques sur sanglier</Name>
+      <NbMin>5</NbMin>
+      <NbMax>-1</NbMax>
+      <Points>16</Points>
+    </UniteSpeciale>
+    <UniteSpeciale>
+      <Name>Orques sauvages sur sanglier</Name>
+      <NbMin>5</NbMin>
+      <NbMax>-1</NbMax>
+      <Points>18</Points>
+    </UniteSpeciale>
+    <UniteSpeciale>
+      <Name>Char à sanglier Orque</Name>
+      <NbMin>1</NbMin>
+      <NbMax>1</NbMax>
+      <Points>85</Points>
+    </UniteSpeciale>
+    <UniteSpeciale>
+      <Name>Char à loups gobelin</Name>
+      <NbMin>1</NbMin>
+      <NbMax>3</NbMax>
+      <Points>50</Points>
+    </UniteSpeciale>
+    <UniteSpeciale>
+      <Name>Baliste Gobeline</Name>
+      <NbMin>1</NbMin>
+      <NbMax>1</NbMax>
+      <Points>35</Points>
+    </UniteSpeciale>
+    <UniteSpeciale>
+      <Name>Gobelins de la nuit sur squig</Name>
+      <NbMin>5</NbMin>
+      <NbMax>-1</NbMax>
+      <Points>12</Points>
+    </UniteSpeciale>
+    <UniteSpeciale>
+      <Name>Troupeau de Squigs gobelins de la nuit</Name>
+      <NbMin>10</NbMin>
+      <NbMax>-1</NbMax>
+      <Points>8</Points>
+    </UniteSpeciale>
+    <UniteSpeciale>
+      <Name>Snotlings</Name>
+      <NbMin>2</NbMin>
+      <NbMax>-1</NbMax>
+      <Points>30</Points>
+    </UniteSpeciale>
+    <UniteSpeciale>
+      <Name>Trolls</Name>
+      <NbMin>1</NbMin>
+      <NbMax>-1</NbMax>
+      <Points>35</Points>
+    </UniteSpeciale>
+  </UnitesSpeciales>
+  <UnitesRares>
+    <UniteRare>
+      <Name>Lance Roc gobelin</Name>
+      <NbMin>1</NbMin>
+      <NbMax>1</NbMax>
+      <Points>85</Points>
+    </UniteRare>
+    <UniteRare>
+      <Name>Catapulte à plongeurs de la mort</Name>
+      <NbMin>1</NbMin>
+      <NbMax>1</NbMax>
+      <Points>80</Points>
+    </UniteRare>
+    <UniteRare>
+      <Name>Chariot à pompe snotling</Name>
+      <NbMin>1</NbMin>
+      <NbMax>1</NbMax>
+      <Points>45</Points>
+    </UniteRare>
+    <UniteRare>
+      <Name>Arachnarok</Name>
+      <NbMin>1</NbMin>
+      <NbMax>1</NbMax>
+      <Points>290</Points>
+    </UniteRare>
+    <UniteRare>
+      <Name>Squigs broyeurs</Name>
+      <NbMin>1</NbMin>
+      <NbMax>1</NbMax>
+      <Points>65</Points>
+    </UniteRare>
+    <UniteRare>
+      <Name>Trolls de pierre</Name>
+      <NbMin>1</NbMin>
+      <NbMax>-1</NbMax>
+      <Points>45</Points>
+    </UniteRare>
+    <UniteRare>
+      <Name>Trolls d'eau</Name>
+      <NbMin>1</NbMin>
+      <NbMax>-1</NbMax>
+      <Points>45</Points>
+    </UniteRare>
+    <UniteRare>
+      <Name>Géant</Name>
+      <NbMin>1</NbMin>
+      <NbMax>1</NbMax>
+      <Points>200</Points>
+    </UniteRare>
+  </UnitesRares>
+</Armee>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ArmesMagiques>
+  <ArmeMagique Name="Lame de géant" Points="60"/>
+  <ArmeMagique Name="Epée sanglante" Points="60"/>
+  <ArmeMagique Name="Lame d'obsidienne" Points="50"/>
+  <ArmeMagique Name="Lame ogre" Points="40"/>
+  <ArmeMagique Name="Epée des guerres éternelles" Points="40"/>
+  <ArmeMAgique Name="Lames d'escrimeur" Points="35"/>
+  <ArmeMagique Name="Epée tueuse de héros" Points="30"/>
+  <ArmeMagique Name="Epée voleuse de sorts" Points="25"/>
+  <ArmeMagique Name="Epée de vive mort" Points="25"/>
+  <ArmeMagique Name="Epée de bataille" Points="20"/>
+  <ArmeMagique Name="Epée de puissance" Points="20"/>
+  <ArmeMagique Name="Epée berserk" Points="20"/>
+  <ArmeMagique Name="Lame d'or vif" Points="15"/>
+  <ArmeMagique Name="Epée de frappe" Points="15"/>
+  <ArmeMagique Name="Lame de morsure" Points="10"/>
+  <ArmeMagique Name="Epée relique" Points="10"/>
+  <ArmeMagique Name="Epée hurlante" Points="10"/>
+  <ArmeMagique Name="Epée du tourmenteur" Points="5"/>
+  <ArmeMagique Name="Malédiction du guerrier" Points="5"/>
+</ArmesMagiques>
